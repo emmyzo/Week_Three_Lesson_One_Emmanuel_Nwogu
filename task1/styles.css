@@ -1,0 +1,27 @@
+body{
+    background: peru;
+}
+
+header{
+    position: absolute;
+    top: 0;
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+main{
+    margin-top: 100px;
+}
+
+.image{
+    float: left;
+    width: 30%;
+    margin-right: 30px;
+}
+
+footer{
+    position: absolute; 
+    bottom: 0;
+    font-size: 50px;
+    font-weight: bolder;
+}
